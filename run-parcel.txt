@@ -1,0 +1,2 @@
+execute the following command to run parcel in 'watch' mode:
+  npx parcel [path/to/file]
